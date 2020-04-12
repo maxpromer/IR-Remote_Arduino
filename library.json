@@ -1,0 +1,16 @@
+{
+  "name": "ir-remote-arduino",
+  "title" : "IR Remote",
+  "keywords": "ir remote receiver, ir",
+  "description": "IR Remote receiver",
+  "homepage": "https://www.inex.co.th/",
+  "license": "MIT",
+  "git": "https://github.com/maxpromer/IR-Remote_Arduino",
+  "author": "INEX",
+  "email": "tech@inex.co.th",
+  "url": "https://www.inex.co.th/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "image" : "/static/display.jpg"
+}
